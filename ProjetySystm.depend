@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1525429055 source:/home/tp-home003/acandas/Documents/TPSyst/ProjetySystm/lsh_function.c
+	<sys/wait.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<pwd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<dirent.h>
+
+1525429036 source:/home/tp-home003/acandas/Documents/TPSyst/ProjetySystm/main.c
+	"lsh_function.h"
+
+1525427830 /home/tp-home003/acandas/Documents/TPSyst/ProjetySystm/lsh_function.h
+	<sys/wait.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<pwd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<dirent.h>
+
+1525427221 /home/tp-home003/acandas/Documents/TPSyst/ProjetySystm/lsh_function.c
+	<sys/wait.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<pwd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<dirent.h>
+
+1525429548 source:/home/tp-home003/acandas/Documents/TPSyst/ProjetySystm/dir_function.c
+	"lsh_function.h"
+
+1525397294 source:/home/tp-home003/acandas/Documents/ProjetySystm/dir_function.c
+	"lsh_function.h"
+
+1525397292 /home/tp-home003/acandas/Documents/ProjetySystm/lsh_function.h
+	<sys/wait.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<pwd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<dirent.h>
+
+1528285022 source:/home/tp-home003/acandas/Documents/ProjetySystm/lsh_function.c
+	<sys/wait.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<pwd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<dirent.h>
+
+1525397294 source:/home/tp-home003/acandas/Documents/ProjetySystm/main.c
+	"dir_function.h"
+	"lsh_function.h"
+
+1525397294 /home/tp-home003/acandas/Documents/ProjetySystm/dir_function.h
+	"lsh_function.h"
+
