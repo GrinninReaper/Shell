@@ -1,9 +1,0 @@
-bin
-lsh_function.c
-lsh_function.h
-main.c
-obj
-ProjetySystm.cbp
-ProjetySystm.depend
-ProjetySystm.layout
-test.txt
